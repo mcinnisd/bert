@@ -1,0 +1,5 @@
+wandb
+reviews-word2vec.large.txt
+reviews-word2vec.larger.txt.gz
+reviews-word2vec.med.txt
+bert_epoch*
